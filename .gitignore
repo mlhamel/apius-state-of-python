@@ -34,3 +34,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# emacs stuff
+.ropeproject/
+
+# ipython stuff
+.ipynb_checkpoints/
