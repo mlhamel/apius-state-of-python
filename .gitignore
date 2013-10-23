@@ -40,3 +40,6 @@ nosetests.xml
 
 # ipython stuff
 .ipynb_checkpoints/
+
+# max things
+.DS_Store
