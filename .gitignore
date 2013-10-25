@@ -43,3 +43,10 @@ nosetests.xml
 
 # max things
 .DS_Store
+
+APIUS.py_files
+APIUS.py.tex
+APIUS.py.out
+APIUS.py.log
+APIUS.py.idx
+APIUS.py.aux
